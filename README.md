@@ -1,2 +1,3 @@
 # BSV14-Private-Server
+not much here...
 ONLY WORKS WITH ANDROID 11 OR BELOW!!
